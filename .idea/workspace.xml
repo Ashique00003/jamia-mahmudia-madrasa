@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a93e5bf-489e-4687-8df7-592b1b9fa595" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fOnt-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fOnt-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lightbox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/venobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/venobox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/10011.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/100111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/100111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/10012.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/106.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/106.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/107.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/107.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/108.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/108.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/109.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/109.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1583047161975.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/1583047161975.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1583047163189.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/1583047163189.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1583047163823.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/1583047163823.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1583047167727.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/1583047167727.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1583047169053.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/1583047169053.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/2.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/3.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/313-planned-now.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/313-planned-now.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/484=plan-now.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/484=plan-now.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bank_account.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bank_account.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/c3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/c3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/course-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/course-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/course-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/course-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/course-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/course-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dept-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dept-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/hh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home_old_situaltion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/home_old_situaltion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loc.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/loc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mal2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mal2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mal3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mal3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mal4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mal4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mal5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mal5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mal6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mal6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mal7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mal7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/maolana_abu.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/maolana_abu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mike.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/mike.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mike.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mosque.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/mosque.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/new1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/new1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/new2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/new2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/new3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/new3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/new4.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/new4.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/new5.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/new5.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/old_b_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/old_b_m.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/old_madrasa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/old_madrasa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pre-now.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pre-now.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/signboard.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/signboard.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp1.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp1.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp12.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp12.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp13.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp13.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp14.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp14.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp15.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp15.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp16.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp16.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp2.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp2.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp3.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp3.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp4.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp4.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp4_600_300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp4_600_300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp5.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp5.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp6.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp6.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp7.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp7.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sp8.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/sp8.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/u.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/images/u.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up_down.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/up_down.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lightbox-plus-jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/smoothscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/smoothscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/venobox.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/venobox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/venobox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/venobox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waz-lib.html" beforeDir="false" afterPath="$PROJECT_DIR$/waz-lib.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aaP5OuWX5s95z5tJtKbSoOpsWI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a93e5bf-489e-4687-8df7-592b1b9fa595" name="Default Changelist" comment="" />
+      <created>1586970548963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586970548963</updated>
+      <workItem from="1586970557106" duration="607000" />
+      <workItem from="1616732002696" duration="624000" />
+      <workItem from="1616741579132" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
