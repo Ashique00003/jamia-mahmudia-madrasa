@@ -526,6 +526,7 @@ a:hover, a:focus {
     text-align: center;
     text-transform: uppercase;
     color: #00cf91;
+    
 }
 
 .gallery {
@@ -536,15 +537,19 @@ a:hover, a:focus {
 }
 
 .gallery img {
-    width: 240px;
-    padding: 6px;
+    width: 220px;
+    margin: 6px;
+    padding: 2px;
     background-color: #00cf91;
-    margin-top: 10px;
+    /* margin-top: 10px; */
+    border-radius: 7px;
 
 }
 
 .gallery img:hover {
     transform: scale(1.1);
+    transition: 0.5s;
+    
 }
 
 /* video Section Start */
